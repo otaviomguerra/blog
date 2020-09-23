@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- Your title -->
-## Hi 👋, I'm Otávio Guerra, a Data Scientist 📊 from Brazil 🇧🇷.
+## Hi 👋, I'm Otávio Guerra, a Data Scientist 📊 from Brazil.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-guerra/)
 
 
-I'm a Computer Engineer and have been studying **Data Science** and **Machine Learning** since early 2017. I love working with data to solve business problems. I'm currently working as a data scientist at Instituto Atlântico. My main areas of study are: Time Series Forecasting and Computer Vision. 
+I'm a Computer Engineer and have been studying **Data Science** and **Machine Learning** since early 2017. I love working with data to solve business problems. I'm currently working as a data scientist at Instituto Atlântico. My main areas of study are: Time Series Forecasting and Explainable AI. 
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
