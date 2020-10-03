@@ -8,7 +8,7 @@ description: Personal blog about data science
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Otávio Guerra
   image: 01.jpg
   say-hello: Hello, I’m <strong>Otávio Guerra</strong>
   bio: This blog has the purpose of showing my skills in the <strong>Data Science</strong> field, mostly through personal projects. My main areas of interest at the moment are <strong>Big Data</strong>, <strong>Time Series Analysis/forecasting</strong> and <strong>Explainable AI</strong>. Currently I work as a Data Scientist and Data Science tutor in Ceará, Brazil.
