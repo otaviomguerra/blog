@@ -5,7 +5,13 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, my name is Otávio Guerra. I'm a Computer Engineer and Data Scientist. I have been studying this field
+since early 2017 and work professionally with data science since early 2019. My main areas of interest are:
+
+* Financial Data in general, specially time series analysis.
+* Explainable AI
+* Customer centered AI (Churn prevention, Segmentation, Marketing Analytics, Survival Analysis)
+* Computer Vision
 
 ***
 
